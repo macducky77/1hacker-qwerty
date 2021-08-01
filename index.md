@@ -1,29 +1,7 @@
 ## Bem Vindo a Minha Pagina de Hacker ético meu nome é miguel e espero que gostem!
 
-Vou Falar um Pouco de mim, meu nome é miguel tenho 12 anos e eu sou um caçador de bugs para bug bounty, já reportei falhas em algumas empresas algumas até que grades porem não vou citar nomes, esse é meu site de dicas espero que goste
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-hack
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Vou Falar um Pouco de mim, meu nome é miguel tenho 12 anos e eu sou um caçador de bugs para bug bounty, já reportei falhas em algumas empresas algumas até que grandes porém não vou citar nomes, esse é meu site de dicas para hacker ético e espero que goste.
+[https://i.imgur.com/z3d0JNC.jpg](https://i.imgur.com/z3d0JNC.jpg) and ![https://i.imgur.com/z3d0JNC.jpg](https://i.imgur.com/z3d0JNC.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
