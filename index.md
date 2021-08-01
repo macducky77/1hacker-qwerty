@@ -1,4 +1,4 @@
-## Bem Vindo a Minha Página de Hacker ético meu nome é Miguel e espero que gostem!
+## Bem Vindo a Minha Página de Hacker ético!
 
 Vou falar um pouco de mim, meu nome é Miguel, e eu sou um caçador de bugs para bug bounty, já reportei falhas em algumas empresas, algumas até que grandes porém não vou citar nomes, esse é meu site de dicas para hacker ético e espero que goste.
 
