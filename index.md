@@ -1,6 +1,6 @@
-## Bem Vindo a Minha Pagina de Hacker ético meu nome é Miguel e espero que gostem!
+## Bem Vindo a Minha Página de Hacker ético meu nome é Miguel e espero que gostem!
 
-Vou Falar um Pouco de mim, meu nome é Miguel tenho 12 anos e eu sou um caçador de bugs para bug bounty, já reportei falhas em algumas empresas algumas até que grandes porém não vou citar nomes, esse é meu site de dicas para hacker ético e espero que goste.
+Vou falar um pouco de mim, meu nome é Miguel tenho 12 anos e eu sou um caçador de bugs para bug bounty, já reportei falhas em algumas empresas, algumas até que grandes porém não vou citar nomes, esse é meu site de dicas para hacker ético e espero que goste.
 
 
 
@@ -11,7 +11,7 @@ Vou Falar um Pouco de mim, meu nome é Miguel tenho 12 anos e eu sou um caçador
 ### HACKER!!!!!!
 
 ### Meus Serviços
-analise de vulnerabilidade em sites, e as correções das falhas.
+análise de vulnerabilidade em sites, e as correções das falhas.
 
 
 
