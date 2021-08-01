@@ -1,6 +1,6 @@
-## Bem Vindo a Minha Pagina de Hackere ético meu nome é miguel e espero que gostem!
+## Bem Vindo a Minha Pagina de Hacker ético meu nome é miguel e espero que gostem!
 
-You can use the [editor on GitHub](https://github.com/miguelvesbmb3/1hacker-qwerty.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Vou Falar um Pouco de mim, meu nome é miguel tenho 12 anos e eu sou um caçador de bugs para bug bounty, já reportei falhas em algumas empresas algumas até que grades porem não vou citar nomes, esse é meu site de dicas espero que goste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
